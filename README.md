@@ -7,6 +7,7 @@
 ![Gradle Badge](https://img.shields.io/badge/MS_Visio--%23264de4?logo=MicrosoftVisio)
 ![Gradle Badge](https://img.shields.io/badge/Blender--%81264dc9?logo=blender)
 ![Gradle Badge](https://img.shields.io/badge/Illustrator--%43264ae4?logo=AdobeIllustrator)
+![Gradle Badge](https://img.shields.io/badge/Tor--%130769BF?logo=TorProject)
 
 
 Future developer with passion for Math, Indi videogames and skiing. 1С enterprise beginner . Proudly from [Voronezh, Russia](https://goo.gl/maps/cCJ1wm4rjbpMRgNm9).
