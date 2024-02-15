@@ -26,7 +26,7 @@ Future developer with passion for Math, Indi videogames and skiing. 1С enterpri
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NTPV&theme=buefy)
 ![Peter's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntpv&layout=compact&hide_border=true&theme=nord&langs_count=10&exclude_repo=agrosmart&hide=typescript)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NTPV&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NTPV&theme=default)
 
 
 <!--
