@@ -4,6 +4,10 @@
 ![Coming soon](https://img.shields.io/badge/Excel--%23fc790a?logo=java)
 ![HTML](https://img.shields.io/badge/HTML--%23e54c21?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS--%23264de4?logo=css3)
+![Gradle Badge](https://img.shields.io/badge/MS_Visio--%23264de4?logo=MicrosoftVisio)
+![Gradle Badge](https://img.shields.io/badge/Blender--%81264dc9?logo=blender)
+![Gradle Badge](https://img.shields.io/badge/Illustrator--%43264ae4?logo=AdobeIllustrator)
+
 
 Future developer with passion for Math, Indi videogames and skiing. 1С enterprise beginner . Proudly from [Voronezh, Russia](https://goo.gl/maps/cCJ1wm4rjbpMRgNm9).
 - 🎓 Informatics and Computer Science [VSU](https://en.wikipedia.org/wiki/Voronezh_State_University). student
