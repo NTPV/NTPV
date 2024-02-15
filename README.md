@@ -17,7 +17,7 @@
 ![Gradle Badge](https://img.shields.io/badge/Git--%23e54c21?logo=Github)
 ![Gradle Badge](https://img.shields.io/badge/Git--%23e54c21?logo=Github)
 
-Future developer with passion for Math, Indi videogames and skiing. 1С enterprise beginner . Proudly from [Voronezh, Russia](https://goo.gl/maps/cCJ1wm4rjbpMRgNm9).
+Future developer with passion for Math, Indi videogames and skiing. 1С enterprise beginner . Bla alswf afwlfwj awfjjlaf lol olimpiads olimpiads science olimpiads. Proudly from [Voronezh, Russia](https://goo.gl/maps/cCJ1wm4rjbpMRgNm9).
 - 🎓 Informatics and Computer Science [VSU](https://en.wikipedia.org/wiki/Voronezh_State_University). student
 - 💻 SAP case lab participant 
 - 🛠 Mastering: `.html`, `.css`
