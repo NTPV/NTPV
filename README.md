@@ -17,8 +17,7 @@ Future developer with passion for Math, Indi videogames and skiing. 1С enterpri
 - 🛠 Mastering: `.html`, `.css`
 - 👯 Looking to collaborate on **Open Source** projects
 - 💬 Most active in the **Telegram** communities Blender 3D, Adobe Illustrator, 1с унф, markdown, svg, LaTex, .tex, .rar, win rar
-
-  ## 📚 Looking for my Resume?
+## 📚 Looking for my Resume?
 - English: [Soon]
 - Русский: [Soon]
 ## 📬 Get in Touch
