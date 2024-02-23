@@ -9,7 +9,7 @@
 ![Gradle Badge](https://img.shields.io/badge/Illustrator--%43264ae4?logo=AdobeIllustrator)
 ![Gradle Badge](https://img.shields.io/badge/Tor--%23e54c21?logo=TorProject)
 ![Gradle Badge](https://img.shields.io/badge/Git--%23e54c21?logo=Github)
-![Gradle Badge](https://img.shields.io/badge/Git--%23e54c21?logo=Github)
+![Gradle Badge](https://img.shields.io/badge/GodotScript--%23e54c21?logo=Github)
 ![Gradle Badge](https://img.shields.io/badge/Git--%23e54c21?logo=Github)
 ![Gradle Badge](https://img.shields.io/badge/Git--%23e54c21?logo=Github)
 ![Gradle Badge](https://img.shields.io/badge/Git--%23e54c21?logo=Github)
