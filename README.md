@@ -11,7 +11,7 @@
 ![Gradle Badge](https://img.shields.io/badge/GODOT--%23e54c21?logo=godot-engine)
 ![Gradle Badge](https://img.shields.io/badge/HTML--%23e54c21?logo=html5)
 ![Gradle Badge](https://img.shields.io/badge/GodotScript--%23e54c21?logo=Github)
-![Gradle Badge](https://img.shields.io/badge/Git--%23e54c21?logo=Github)
+![Gradle Badge](https://img.shields.io/badge/Figma--%23e54c21?logo=Github)
 ![Gradle Badge](https://img.shields.io/badge/Git--%23e54c21?logo=Github)
 ![Gradle Badge](https://img.shields.io/badge/Git--%23e54c21?logo=Github)
 ![Gradle Badge](https://img.shields.io/badge/Git--%23e54c21?logo=Github)
