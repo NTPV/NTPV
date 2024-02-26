@@ -34,6 +34,8 @@ Future developer with passion for Math, Indi videogames and skiing. 1С enterpri
 - GitHub: [github.com/PetyaTractorDriver](https://github.com/PetyaTractorDriver)
 - LinkedIn: [Soon]
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NTPV&layout=compact)](https://github.com/NTPV/github-readme-stats)
+
 
 <!--
 **PetyaTractorDriver/PetyaTractorDriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
