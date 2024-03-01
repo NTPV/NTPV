@@ -10,6 +10,8 @@
 ![Gradle Badge](https://img.shields.io/badge/Blender--%81264dc9?logo=blender)
 ![Gradle Badge](https://img.shields.io/badge/Tor--%23e54c21?logo=TorProject)
 ![Gradle Badge](https://img.shields.io/badge/Illustrator--%43264ae4?logo=AdobeIllustrator)
+![HTML](https://img.shields.io/badge/HTML--%23e54c21?logo=html5)
+![HTML](https://img.shields.io/badge/HTML--%23e54c21?logo=html5)
 
 
 Future developer with passion for Math, Indi videogames and skiing. 1С enterprise beginner . Godot Script and simple design lover :). Bla Bla Proudly from [Voronezh, Russia](https://goo.gl/maps/cCJ1wm4rjbpMRgNm9).
