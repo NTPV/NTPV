@@ -10,6 +10,8 @@
 ![Word](https://img.shields.io/badge/Word--%230769AD?logo=Word)
 ![Coming soon](https://img.shields.io/badge/Excel--%23fc790a?logo=java)
 ![Gradle Badge](https://img.shields.io/badge/Blender--%81264dc9?logo=blender)
+![Gradle Badge](https://img.shields.io/badge/Tor--%23e54c21?logo=TorProject)
+![Gradle Badge](https://img.shields.io/badge/Illustrator--%43264ae4?logo=AdobeIllustrator)
 
 
 
