@@ -34,8 +34,6 @@ Future developer with passion for Math, Indi videogames and skiing. 1С enterpri
 - LinkedIn: [Soon]
  
 ![Peter's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntpv&layout=compact&hide_border=true&theme=nord&langs_count=10&exclude_repo=agrosmart&hide=typescript)
-## 🎯Goal for the year
-![Not Peter's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntdv&layout=compact&hide_border=true&theme=nord&langs_count=10&exclude_repo=agrosmart&hide=t)
 
 
 <!--
