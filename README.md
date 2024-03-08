@@ -15,7 +15,7 @@
 
 
 
-Futureп developer with passion for Math, Indi videogames and skiing. 1С enterprise beginner . Godot Script and simple design lover :). Bla Bla Proudly from [Voronezh, Russia](https://goo.gl/maps/cCJ1wm4rjbpMRgNm9).
+Future developer with passion for Math, Indi videogames and skiing. 1С enterprise beginner . Godot Script and simple design lover :). Bla Bla Proudly from [Voronezh, Russia](https://goo.gl/maps/cCJ1wm4rjbpMRgNm9).
 
 - 🎓 Informatics and Computer Science [VSU](https://en.wikipedia.org/wiki/Voronezh_State_University). student
 - 💻 SAP case lab participant 
