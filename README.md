@@ -11,7 +11,6 @@
 ![Coming soon](https://img.shields.io/badge/Excel--%23fc790a?logo=java)
 ![Gradle Badge](https://img.shields.io/badge/Blender--%81264dc9?logo=blender)
 ![Gradle Badge](https://img.shields.io/badge/Illustrator--%43264ae4?logo=AdobeIllustrator)
-![PHP](https://img.shields.io/badge/PHP--%23e54c21?logo=PHP)
 ![PHP](https://img.shields.io/badge/PHP--rgb%28255%2C%200%2C%20153%2C%201%29?logo=PHP)
 
 
