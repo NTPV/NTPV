@@ -37,7 +37,7 @@ Avesome Future developer with passion for Math, Indi videogames and skiing. 1С 
 - LinkedIn: [Soon]
  
 ![Peter's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntpv&layout=compact&hide_border=true&theme=nord&langs)
-
+![Peter's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntpv&layout=compact&hide_border=true&theme=nord&langs)
 
 <!--
 **PetyaTractorDriver/PetyaTractorDriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
