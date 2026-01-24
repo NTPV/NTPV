@@ -26,15 +26,13 @@ Avesome Future developer with passion for Math, Indi videogames and skiing. 1С 
 - 🛠 Mastering: `.html`, `.css`, `.js`
 - 👯 Looking to collaborate on **Open Source** projects
 - 💬 Most active in the **Telegram** communities Blender 3D, Adobe Illustrator, 1с унф, markdown, svg, LaTex, .tex, .rar, win rar
-## 📚 Looking for my Resume?
-- English: [Soon]
+## 📚 Резюме
 - Русский: [Soon]
 ## 📬 Get in Touch
 
 - E-mail: [iq36@yandex.ru](mailto:iq36@yandex.ru)
 - Telegram: [t.me/LogiaBio](https://t.me/LogiaBio)
 - GitHub: [github.com/NTPV](https://github.com/NTPV)
-- LinkedIn: [Soon]
  
 
 
