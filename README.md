@@ -27,6 +27,7 @@ Avesome Future developer with passion for Math, Indi videogames and skiing. 1С 
 - Telegram: [t.me/LogiaBio](https://t.me/LogiaBio)
 - GitHub: [github.com/NTPV](https://github.com/NTPV)
 
+##
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NTPV&layout=compact)
 
 
