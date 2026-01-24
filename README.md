@@ -1,17 +1,9 @@
 # Hello, I'm Peter Sokolov <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-![Stack](https://img.shields.io/badge/My_stack-➡-brightgreen) 
-![HTML](https://img.shields.io/badge/HTML--%23e54c21?logo=html5)
-![CSS](https://img.shields.io/badge/CSS--%23264de4?logo=css3)
-![Gradle Badge](https://img.shields.io/badge/GDScript--%23e54c21?logo=godot-engine)
-![HTML](https://img.shields.io/badge/JavaScript--%23e54c21?logo=JavaScript)
-![HTML](https://img.shields.io/badge/jQuery--%23e54c21?logo=jQuery)
-![Gradle Badge](https://img.shields.io/badge/MS_Visio--%23264de4?logo=MicrosoftVisio)
-![Figma](https://img.shields.io/badge/Figma--%23e54c21?logo=figma)
-![Word](https://img.shields.io/badge/Word--%230769AD?logo=Word)
-![Coming soon](https://img.shields.io/badge/Excel--%23fc790a?logo=java)
-![Gradle Badge](https://img.shields.io/badge/Blender--%81264dc9?logo=blender)
-![Gradle Badge](https://img.shields.io/badge/Illustrator--%43264ae4?logo=AdobeIllustrator)
-![PHP](https://img.shields.io/badge/PHP--rgb%28255%2C%200%2C%20153%2C%201%29?logo=PHP)
+![Stack](https://img.shields.io/badge/My_stack-➡-brightgreen)
+![HTML](https://img.shields.io/badge/1С-_-yellow)
+![CSS](https://img.shields.io/badge/1C_Управление_медицинским_центром-Профессионал-yellow)
+![CSS](https://img.shields.io/badge/Python--%23264de4?logo=Python)
+![CSS](https://img.shields.io/badge/jupyter_notebook--F37626?logo=Jupyter)
 
 
 
