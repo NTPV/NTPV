@@ -27,7 +27,7 @@ Avesome Future developer with passion for Math, Indi videogames and skiing. 1С 
 - 👯 Looking to collaborate on **Open Source** projects
 - 💬 Most active in the **Telegram** communities Blender 3D, Adobe Illustrator, 1с унф, markdown, svg, LaTex, .tex, .rar, win rar
 ## 📚 Резюме
-- Русский: [Soon]
+- ссылка: [https://github.com/NTPV/NTPV/blob/main/Resume_Sokolov_P.pdf]
 ## 📬 Контакты
 
 - E-mail: [iq36@yandex.ru](mailto:iq36@yandex.ru)
