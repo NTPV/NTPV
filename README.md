@@ -14,10 +14,10 @@
 Город: [Воронеж](https://goo.gl/maps/cCJ1wm4rjbpMRgNm9).
 
 - 🎓 Студент [ВГУ](https://en.wikipedia.org/wiki/Voronezh_State_University).
-- 💻1C профессионал УМЦ
-
+- 💻1C профессионал конфигурация: [Медицина](https://github.com/NTPV/NTPV/blob/main/Sertifikat.pdf)
+  
 ## 📚 Резюме
-- ссылка: [https://github.com/NTPV/NTPV/blob/main/Resume_Sokolov_P.pdf]
+- ссылка: [Ссылка, нажмите здесь](https://github.com/NTPV/NTPV/blob/main/Resume_Sokolov_P.pdf)
 
 ## 📬 Контакты
 
