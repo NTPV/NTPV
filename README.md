@@ -1,7 +1,7 @@
 # Hello, I'm Peter Sokolov <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ![Stack](https://img.shields.io/badge/My_stack-➡-brightgreen)
 ![HTML](https://img.shields.io/badge/1С-_-yellow)
-![CSS](https://img.shields.io/badge/1C_Управление_медицинским_центром-Профессионал-yellow)
+![CSS](https://img.shields.io/badge/конф_1C_медицина-Профессионал-yellow)
 ![CSS](https://img.shields.io/badge/Python--%23264de4?logo=Python)
 ![CSS](https://img.shields.io/badge/jupyter_notebook--F37626?logo=Jupyter)
 
