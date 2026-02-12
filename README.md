@@ -15,8 +15,7 @@
 - 🎓 Студент [ВГУ](https://en.wikipedia.org/wiki/Voronezh_State_University).
 - 💻1C профессионал конфигурация: [Медицина](https://github.com/NTPV/NTPV/blob/main/Sertifikat.pdf)
   
-## 📚 Резюме
-- ссылка: [Ссылка, нажмите здесь](https://github.com/NTPV/NTPV/blob/main/Resume_Sokolov_P.pdf)
+
 
 ## 📬 Контакты
 
