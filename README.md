@@ -1,7 +1,6 @@
 # Hello, I'm Peter Sokolov <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ![Stack](https://img.shields.io/badge/My_stack-➡-brightgreen)
 ![HTML](https://img.shields.io/badge/1С-_-yellow)
-![CSS](https://img.shields.io/badge/конф_1C_медицина-Профессионал-yellow)
 ![CSS](https://img.shields.io/badge/Python--%23264de4?logo=Python)
 ![CSS](https://img.shields.io/badge/jupyter_notebook--F37626?logo=Jupyter)
 
@@ -25,8 +24,6 @@
 - Telegram: [t.me/LogiaBio](https://t.me/LogiaBio)
 - GitHub: [github.com/NTPV](https://github.com/NTPV)
 
-##
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NTPV&layout=compact)
 
 
 <!--
