@@ -22,7 +22,7 @@
 - Telegram: [t.me/iq461](https://t.me/iq461)
 - GitHub: [github.com/NTPV](https://github.com/NTPV)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NTPV&layout=compact)
 
 <!--
 **PetyaTractorDriver/PetyaTractorDriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
