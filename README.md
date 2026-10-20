@@ -1,14 +1,8 @@
 # Пётр Соколов <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ![Stack](https://img.shields.io/badge/My_stack-➡-brightgreen)
-![HTML](https://img.shields.io/badge/1С-_-yellow)
-![CSS](https://img.shields.io/badge/Python--%23264de4?logo=Python)
-![CSS](https://img.shields.io/badge/jupyter_notebook--F37626?logo=Jupyter)
-
-
-
-
-
-
+![1С](https://img.shields.io/badge/1С-_-yellow)
+![Python](https://img.shields.io/badge/Python--blue?logo=Python)
+![R](https://img.shields.io/badge/R--blue?logo=R)
 
 Город: [Москва](https://maps.app.goo.gl/P17XV7T6vuHc8hcT7).
 
@@ -22,19 +16,4 @@
 - Telegram: [t.me/iq461](https://t.me/iq461)
 - GitHub: [github.com/NTPV](https://github.com/NTPV)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NTPV&layout=compact)
-
-<!--
-**PetyaTractorDriver/PetyaTractorDriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Тут должна быть статистика по языкам, но она не загрузилась](https://github-stats-extended.vercel.app/api/top-langs?username=NTPV&layout=compact&locale=ru)
